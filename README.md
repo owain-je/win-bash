@@ -24,6 +24,7 @@
 - Package management - chocolatey relies on downloading files from random websites 
 - Many tools are charged for in windows. 
 - AD only inbuilt LDAP authentication mechanisum , requires extra reboot +1m on boot up time 
+- LDAP using pgina - hard to configure granular access in a simple way 
 - Have to sys prep images - extra time on building images and amis 
 - WINRM hard to use for non AD integrated machines vs ssh 
 - RDP proxy - a paid for capability if you want jump boxes 
